@@ -2,7 +2,7 @@
 
   A dynamic bus booking software with login feature.  
 
-# **Features**
+## **Features**
   - Dynamic real-time ticket allocation system
   - ASCII GUI
   - User accounts
